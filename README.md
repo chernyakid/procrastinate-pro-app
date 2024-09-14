@@ -22,5 +22,7 @@
 - когда расходы на привлечение клиента окупаются,
 - какие факторы мешают привлечению клиентов.
 
-Проект - [procrastinate-pro-app.ipynb](procrastinate-pro-app.ipynb)
+**Проект**
+- [procrastinate-pro-app.ipynb](procrastinate-pro-app.ipynb)
+- [procrastinate-pro-app.html](procrastinate-pro-app.html)
 
