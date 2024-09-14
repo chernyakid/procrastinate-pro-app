@@ -2,7 +2,7 @@
 > **Яндекс Практикум**. Курс [Аналитик данных плюс](https://practicum.yandex.ru/data-analyst-plus/) <br> 
 > Проектная работа в модуле "Анализ бизнес-показателей"
 
-`Jupyter` `Python` `Pandas`
+`Jupyter` `Python` `Pandas` `Seaborn`
 
 **Предмет исследования:** развлекательное приложение Procrastinate Pro+.
 
